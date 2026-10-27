@@ -1,0 +1,8 @@
+name: protein_extractor
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.10
+  - miniprot
+  - gffread
